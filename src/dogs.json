@@ -1,0 +1,63 @@
+[
+    { 
+        "breed": "German Shepherd",
+        "image": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12213218/German-Shepherd-on-White-00.jpg"
+    },
+    { 
+        "breed": "Border Collie",
+        "image": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12235957/Border-Collie-On-White-01.jpg"
+    },
+    { 
+        "breed": "Australian Cattle Dog",
+        "image": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/13001408/Australian-Cattle-Dog-On-White-01.jpg"
+    },
+    { 
+        "breed": "Australian Shepherd",
+        "image": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/13001309/Australian-Shepherd-On-White-07.jpg"
+    },
+    { 
+        "breed": "Sheltie",
+        "image": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12224438/Shetland-Sheepdog-On-White-01.jpg"
+    },
+    { 
+        "breed": "Old English Sheep Dog",
+        "image": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12230147/Old-English-Sheepdog-On-White-03.jpg"
+    },
+    { 
+        "breed": "Rhodesian Ridgeback",
+        "image": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12225049/Rhodesian-Ridgeback-On-White-01.jpg"
+    },
+    { 
+        "breed": "Stumpy tail Cattle Dog",
+        "image": "https://www.advancepet.com.au/images/breeds/aust_stumpy_tail_cattle_dog.jpg"
+    },
+    { 
+        "breed": "Belgian Malinois",
+        "image": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/13000724/Belgian-Malinois-On-White-01.jpg"
+    },
+    { 
+        "breed": "Rough Collie",
+        "image": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12234244/Collie-On-White-01.jpg"
+    },
+    { 
+        "breed": "Labrador Retriever",
+        "image": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12231410/Labrador-Retriever-On-White-01.jpg"
+    },
+    { 
+        "breed": "Pointer",
+        "image": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12225723/Pointer-On-White-02.jpg"
+    },
+    { 
+        "breed": "English Springer Spaniel",
+        "image": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12233538/English-Springer-Spaniel-On-White-03.jpg"
+    },
+    { 
+        "breed": "German Shorthaired Pointer",
+        "image": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12232941/German-Shorthaired-Pointer-On-White-07.jpg"
+    },
+    { 
+        "breed": "Chesapeake Bay Retriever",
+        "image": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12234759/Chesapeake-Bay-Retriever-On-White-03.jpg"
+    }
+
+]
